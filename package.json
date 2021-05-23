@@ -1,0 +1,19 @@
+{
+  "name": "jscourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-module-loader": "^0.17.11",
+    "traceur": "0.0.108"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  }
+}
