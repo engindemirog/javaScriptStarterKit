@@ -1,2 +1,2 @@
 # advancedJavaScript
-Base repository for Siemens Advanced JS Course
+Starter kit for my JS Courses
