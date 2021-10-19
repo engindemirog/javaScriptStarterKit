@@ -21,5 +21,8 @@ console.log(euroDun)
 let konutKrediler = ["Konut Kredisi","Emlak konut Kredisi","Kamu Konut Kredisi"]
 
 let users = getUsersFromApi();
-
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+    
+}
 console.log(konutKrediler)
