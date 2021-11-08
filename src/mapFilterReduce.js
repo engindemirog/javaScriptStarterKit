@@ -16,7 +16,7 @@ console.log("</ul>")
 
 let total = cart.reduce((acc,product)=>acc+ product.unitPrice * product.quantity,0)
 
-
+//23.00 Dersteyiz
 console.log(total)
 
 
