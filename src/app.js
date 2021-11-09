@@ -16,7 +16,7 @@ const euroDun = 11.2
 
 console.log(euroDun)
 
-//array
+//array , birden fazla veriyi aynı değişkende kullanmak için biz arraylaerden yararlanıyoruz.
 //camelCasing
 //PascalCasing
 let konutKredileri = ["Konut kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi","Özel Konut Kredisi"]
@@ -26,6 +26,7 @@ for(let i = 0;i<konutKredileri.length;i++){
     console.log("<li>"+konutKredileri[i]+"</li>")
 }
 console.log("</ul>")
+
 
 {/* <ul>
     <li>Konut kredisi</li>
