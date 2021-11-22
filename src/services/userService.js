@@ -1,7 +1,7 @@
 export default class UserService{
     constructor(loggerService){
         this.users = []
-        this.loggerService =loggerService
+        this.loggerService = loggerService
     }
 
     add(user){
