@@ -24,3 +24,9 @@ let customer = {id:1, firstName:"Engin"}
 customer.lastName = "Demiroğ"
 
 console.log(customer.lastName)
+
+console.log("--------------------------")
+userService.load()
+console.log(userService.customers)
+console.log(userService.employees)
+//22.00 Dersteyiz
